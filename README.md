@@ -1,3 +1,3 @@
 # ImageRegistration
 
-Image translation followed by Image regsitration performed on Knee CT Images.
+Image translation followed by Image registration performed on Knee CT Images.
